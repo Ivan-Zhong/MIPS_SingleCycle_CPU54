@@ -19,12 +19,14 @@
 ### 后仿真
 
 Synthesis之后使用ModelSim来完成后仿真，具体的注意事项见pdf文件。
+![post1](https://user-images.githubusercontent.com/37100888/125269252-19c74f00-e33b-11eb-8b83-1b80221ace44.png)
 
 
 
 ### 下板
 
 依次运行Synthesis、Implementation、Generate Bitstream来进行后仿真和下板，结果如下：
+![下板2](https://user-images.githubusercontent.com/37100888/125269312-251a7a80-e33b-11eb-9d97-67de9a17b302.jpg)
 
 
 
