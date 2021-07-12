@@ -1,0 +1,1 @@
+需要自己添加distributed memory generator IP核，使用这里面的coe，命名为imem
